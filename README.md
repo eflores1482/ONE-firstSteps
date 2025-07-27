@@ -1,2 +1,2 @@
 # ONE-firstSteps
-Primera etapa del curso Oracle Next Education
+Primera etapa del programa Oracle Next Education
